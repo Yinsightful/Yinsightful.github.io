@@ -1,9 +1,10 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "./App.css";
-import mockup from "./assets/mobile.png"; // Replace with the correct path
-import logo from "./assets/icon.png"; // Make sure to import your logo
-import linkedinIcon from "./assets/linkedin.png"; // Replace with your LinkedIn icon path
-import instagramIcon from "./assets/instagram.png"; // Replace with your Instagram icon path
+import mockup from "./assets/mobile.png"; 
+import logo from "./assets/icon.png";
+import linkedinIcon from "./assets/linkedin.png"; 
+import instagramIcon from "./assets/instagram.png"; 
 
 function WaitlistLandingPage() {
   const handleJoinWaitlistClick = () => {
@@ -14,6 +15,10 @@ function WaitlistLandingPage() {
     <div className="container">
       <header className="header">
         <img src={logo} alt="Luna Logo" className="logo" />
+        <nav className="nav-bar">
+          <Link to="/privacy-policy" className="nav-links">Privacy Policy</Link>
+          <Link to="/terms-of-service" className="nav-links">Terms of Service</Link>
+        </nav>
       </header>
       <main className="content">
         <div className="text-content">
