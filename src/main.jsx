@@ -12,9 +12,9 @@ function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<WaitlistLandingPage />} />
-        <Route path="/privacy-policy" element={<PrivacyPolicy />} />
-        <Route path="/terms-of-service" element={<TermsOfService />} />
+        <Route path="#/" element={<WaitlistLandingPage />} />
+        <Route path="#/privacy-policy" element={<PrivacyPolicy />} />
+        <Route path="#/terms-of-service" element={<TermsOfService />} />
       </Routes>
     </Router>
   );
