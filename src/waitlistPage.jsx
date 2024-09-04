@@ -31,14 +31,14 @@ function WaitlistLandingPage() {
         <div className="text-content">
           <h1>Your learning app</h1>
           <p>
-            Yinsight is a platform aimed at having you achieve your potential. How? It's simple.
+            Yinsight is a platform aimed at having you achieve your learning potential. How? It's simple.
           </p>
           <ul>
-            <li>You gain insights on how you learn currently</li>
-            <li>Build your best self to become your best learner</li>
+            <li>You will gain insights on how you learn, right now.</li>
+            <li>You will build your best self (peak being) to become your own best learner (peak learning performance).</li>
           </ul>
           <p>
-            This system focuses on a holistic approach for how you learn best to make it better. All of this based on your mindset, your schedule, and your natural ability to focus and recall.
+            The Yinsight System is personalized to you — helping you build your mindset and optimizing your schedule, focus, and recall.
           </p>
           <br />
           <p>
