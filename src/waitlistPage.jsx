@@ -35,8 +35,8 @@ function WaitlistLandingPage() {
           </p>
 
           <ul>
-            <li>You’ll gain insights into how you learn, right now. Yinsight uses advanced algorithms to analyze your learning patterns and provide personalized feedback on your strengths and areas for growth.</li>
-            <li>You’ll build your best self (peak being) to become your best learner (peak learning performance). Our holistic approach ensures you optimize your mindset, energy, and focus, guiding you toward peak learning performance.</li>
+            <li>You'll gain insights into how you learn, right now. Yinsight uses advanced algorithms to analyze your learning patterns and provide personalized feedback on your strengths and areas for growth.</li>
+            <li>You'll build your best self (peak being) to become your best learner (peak learning performance). Our holistic approach ensures you optimize your mindset, energy, and focus, guiding you toward peak learning performance.</li>
           </ul>
 
           <p>
