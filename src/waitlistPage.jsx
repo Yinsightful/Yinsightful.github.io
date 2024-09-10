@@ -36,6 +36,7 @@ function WaitlistLandingPage() {
 
           <ul>
             <li>You'll gain insights into how you learn, right now. Yinsight uses advanced algorithms to analyze your learning patterns and provide personalized feedback on your strengths and areas for growth.</li>
+            <br></br>
             <li>You'll build your best self (peak being) to become your best learner (peak learning performance). Our holistic approach ensures you optimize your mindset, energy, and focus, guiding you toward peak learning performance.</li>
           </ul>
 
@@ -50,7 +51,8 @@ function WaitlistLandingPage() {
           <button class="waitlist-button" onclick="handleJoinWaitlistClick()">
             Join the Waitlist
           </button>
-
+          <br></br>
+          <br></br>
           <p>
             <strong>Transparency is key:</strong> Yinsight requests data such as your learning habits and activity to offer personalized insights. Your data is used solely to improve your learning experience, providing tailored strategies to enhance your academic performance.
           </p>
