@@ -31,22 +31,29 @@ function WaitlistLandingPage() {
         <div className="text-content">
           <h1>Your learning app</h1>
           <p>
-            Yinsight is a platform aimed at having you achieve your learning potential. How? It's simple.
+            Yinsight is a platform designed to unlock your learning potential. How? It’s simple:
           </p>
+
           <ul>
-            <li>You will gain insights on how you learn, right now.</li>
-            <li>You will build your best self (peak being) to become your own best learner (peak learning performance).</li>
+            <li>You’ll gain insights into how you learn, right now. Yinsight uses advanced algorithms to analyze your learning patterns and provide personalized feedback on your strengths and areas for growth.</li>
+            <li>You’ll build your best self (peak being) to become your best learner (peak learning performance). Our holistic approach ensures you optimize your mindset, energy, and focus, guiding you toward peak learning performance.</li>
           </ul>
+
           <p>
-            The Yinsight System is personalized to you — helping you build your mindset and optimizing your schedule, focus, and recall.
+            The Yinsight system is tailored specifically to you, offering a fully personalized experience. It helps you build your mindset and optimize your schedule, focus, and recall — all based on your unique learning profile.
           </p>
-          <br />
+
           <p>
-            By signing up for our beta release, you will get access to this system in its early stages. We can't wait to see you succeed. 🙌🙌
+            By signing up for our beta release, you will get access to the system in its early stages. We can’t wait to see you succeed. 🙌🙌
           </p>
-          <button className="waitlist-button" onClick={handleJoinWaitlistClick}>
+
+          <button class="waitlist-button" onclick="handleJoinWaitlistClick()">
             Join the Waitlist
           </button>
+
+          <p>
+            <strong>Transparency is key:</strong> Yinsight requests data such as your learning habits and activity to offer personalized insights. Your data is used solely to improve your learning experience, providing tailored strategies to enhance your academic performance.
+          </p>
         </div>
         <div className="mockup">
           <img src={mockup} alt="App Mockup" />
