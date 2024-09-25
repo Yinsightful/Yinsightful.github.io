@@ -11,7 +11,7 @@ export default defineConfig({
   base: './'
 });
 
-// // This is the npm run dev version
+// This is the npm run dev version
 // export default defineConfig({
 
 // })

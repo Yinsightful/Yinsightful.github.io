@@ -48,8 +48,8 @@ function WaitlistLandingPage() {
             By signing up for our beta release, you will get access to the system in its early stages. We can’t wait to see you succeed. 🙌🙌
           </p>
 
-          <button class="waitlist-button" onclick="handleJoinWaitlistClick()">
-            Join the Waitlist
+          <button class="waitlist-button" onClick={handleJoinWaitlistClick}>
+            Join the HI
           </button>
           <br></br>
           <br></br>
