@@ -49,7 +49,7 @@ function WaitlistLandingPage() {
           </p>
 
           <button class="waitlist-button" onClick={handleJoinWaitlistClick}>
-            Join the HI
+            Join the Waitlist
           </button>
           <br></br>
           <br></br>
